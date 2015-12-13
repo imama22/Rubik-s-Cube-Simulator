@@ -1,0 +1,426 @@
+# depslib dependency file v1.0
+1443596371 source:e:\sdl\rubikscube-v1.9(03.10)\appcleanup.cpp
+	"SDLDrawer.h"
+
+1445883954 e:\sdl\rubikscube-v1.9(03.10)\include\sdldrawer.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"RubikCubeSolver.h"
+	"MySolver.h"
+	<string>
+	<iostream>
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\mingw_dev_lib\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_platform.h
+
+1326110994 c:\mingw_dev_lib\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\mingw_dev_lib\include\sdl\begin_code.h
+
+1325738640 c:\mingw_dev_lib\include\sdl\close_code.h
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_keysym.h
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\mingw_dev_lib\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1443907076 e:\sdl\rubikscube-v1.9(03.10)\include\rubikcubesolver.h
+	"RubikCube.h"
+	<string>
+	<sstream>
+
+1445024769 e:\sdl\rubikscube-v1.9(03.10)\include\rubikcube.h
+	<cmath>
+	<random>
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"CubieColor.h"
+	"Move.h"
+	"Face.h"
+	"Permutation.h"
+
+1443892368 e:\sdl\rubikscube-v1.9(03.10)\include\cubiecolor.h
+
+1445009359 e:\sdl\rubikscube-v1.9(03.10)\include\move.h
+
+1443267326 e:\sdl\rubikscube-v1.9(03.10)\include\face.h
+
+1443268861 e:\sdl\rubikscube-v1.9(03.10)\include\permutation.h
+
+1443964605 e:\sdl\rubikscube-v1.9(03.10)\include\mysolver.h
+	"RubikCube.h"
+	<string>
+	<sstream>
+
+1445896026 source:e:\sdl\rubikscube-v1.9(03.10)\appevent.cpp
+	"SDLDrawer.h"
+
+1445896416 source:e:\sdl\rubikscube-v1.9(03.10)\appinit.cpp
+	"SDLDrawer.h"
+
+1445882900 source:e:\sdl\rubikscube-v1.9(03.10)\apprender.cpp
+	"SDLDrawer.h"
+
+1443262014 source:e:\sdl\rubikscube-v1.9(03.10)\bufferdata.cpp
+
+1445020240 source:e:\sdl\rubikscube-v1.9(03.10)\cubedisplay.cpp
+	"RubikCube.h"
+
+1445883394 source:e:\sdl\rubikscube-v1.9(03.10)\mainapp.cpp
+	"SDLDrawer.h"
+
+1445011877 source:e:\sdl\rubikscube-v1.9(03.10)\solvewhitecross.cpp
+	"MySolver.h"
+
+1443260143 source:e:\sdl\rubikscube-v1.9(03.10)\src\cubiecolor.cpp
+	"CubieColor.h"
+
+1443267307 source:e:\sdl\rubikscube-v1.9(03.10)\src\face.cpp
+	"Face.h"
+
+1443262954 source:e:\sdl\rubikscube-v1.9(03.10)\src\move.cpp
+	"Move.h"
+
+1445895293 source:e:\sdl\rubikscube-v1.9(03.10)\src\mysolver.cpp
+	"MySolver.h"
+
+1443269818 source:e:\sdl\rubikscube-v1.9(03.10)\src\permutation.cpp
+	"Permutation.h"
+
+1446028093 source:e:\sdl\rubikscube-v1.9(03.10)\src\rubikcubesolver.cpp
+	"RubikCubeSolver.h"
+
+1445892381 source:e:\sdl\rubikscube-v1.9(03.10)\src\sdldrawer.cpp
+	"SDLDrawer.h"
+
+1442613265 source:e:\sdl\rubikscube-v1.9(03.10)\src\stopwatch.cpp
+	"Stopwatch.h"
+
+1442613293 e:\sdl\rubikscube-v1.9(03.10)\include\stopwatch.h
+	<Windows.h>
+
+1445878553 source:e:\sdl\rubikscube-v1.9(03.10)\cubemoves.cpp
+	"RubikCube.h"
+
+1445884165 source:e:\sdl\rubikscube-v1.9(03.10)\src\rubikcube.cpp
+	"RubikCube.h"
+
+1445881370 e:\sdl\rubikscube-v1.9(03.10)\include\button.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1443596371 source:e:\sdl\rubikscubesimulator\appcleanup.cpp
+	"SDLDrawer.h"
+
+1448447776 e:\sdl\rubikscubesimulator\include\sdldrawer.h
+	<windows.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<Gl/glui.h>
+	"RubikCubeSolver.h"
+	"MySolver.h"
+	"CubeScrambler.h"
+	"CubeReader.h"
+	<string>
+	<iostream>
+
+893372400 c:\mingw_dev_lib\include\gl\gl.h
+
+893372400 c:\mingw_dev_lib\include\gl\glu.h
+	<GL/gl.h>
+
+1448409708 e:\sdl\rubikscubesimulator\include\rubikcubesolver.h
+	"RubikCube.h"
+	<string>
+	<sstream>
+
+1448445395 e:\sdl\rubikscubesimulator\include\rubikcube.h
+	<random>
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glui.h>
+	"Permutation.h"
+
+1448376656 e:\sdl\rubikscubesimulator\include\cubiecolor.h
+
+1448383057 e:\sdl\rubikscubesimulator\include\move.h
+
+1443267326 e:\sdl\rubikscubesimulator\include\face.h
+
+1443268861 e:\sdl\rubikscubesimulator\include\permutation.h
+
+1448396587 e:\sdl\rubikscubesimulator\include\mysolver.h
+	"RubikCube.h"
+	<string>
+	<sstream>
+
+1448447825 source:e:\sdl\rubikscubesimulator\appevent.cpp
+	"SDLDrawer.h"
+
+1448368469 source:e:\sdl\rubikscubesimulator\appinit.cpp
+	"SDLDrawer.h"
+
+1445882900 source:e:\sdl\rubikscubesimulator\apprender.cpp
+	"SDLDrawer.h"
+
+1448389872 source:e:\sdl\rubikscubesimulator\bufferdata.cpp
+	"RubikCube.h"
+
+1448411675 source:e:\sdl\rubikscubesimulator\cubedisplay.cpp
+	"RubikCube.h"
+
+1448405024 source:e:\sdl\rubikscubesimulator\cubemoves.cpp
+	"RubikCube.h"
+
+1448398456 source:e:\sdl\rubikscubesimulator\mainapp.cpp
+	"SDLDrawer.h"
+
+1448378818 source:e:\sdl\rubikscubesimulator\solvewhitecross.cpp
+	"MySolver.h"
+
+1443260143 source:e:\sdl\rubikscubesimulator\src\cubiecolor.cpp
+	"CubieColor.h"
+
+1443267307 source:e:\sdl\rubikscubesimulator\src\face.cpp
+	"Face.h"
+
+1443262954 source:e:\sdl\rubikscubesimulator\src\move.cpp
+	"Move.h"
+
+1448445487 source:e:\sdl\rubikscubesimulator\src\mysolver.cpp
+	"MySolver.h"
+
+1443269818 source:e:\sdl\rubikscubesimulator\src\permutation.cpp
+	"Permutation.h"
+
+1448411966 source:e:\sdl\rubikscubesimulator\src\rubikcube.cpp
+	"RubikCube.h"
+
+1448410697 source:e:\sdl\rubikscubesimulator\src\rubikcubesolver.cpp
+	"RubikCubeSolver.h"
+
+1448448177 source:e:\sdl\rubikscubesimulator\src\sdldrawer.cpp
+	"SDLDrawer.h"
+
+1442613265 source:e:\sdl\rubikscubesimulator\src\stopwatch.cpp
+	"Stopwatch.h"
+
+1442613293 e:\sdl\rubikscubesimulator\include\stopwatch.h
+	<Windows.h>
+
+1038001380 c:\mingw_dev_lib\include\gl\glui.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+976659772 c:\mingw_dev_lib\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1448447857 e:\sdl\rubikscubesimulator\include\cubescrambler.h
+	"RubikCube.h"
+	<string>
+
+1448447515 source:e:\sdl\rubikscubesimulator\src\cubescrambler.cpp
+	<cmath>
+	<random>
+	<ctime>
+	<stdlib.h>
+	"CubeScrambler.h"
+
+1448448045 e:\sdl\rubikscubesimulator\include\cubereader.h
+	"RubikCube.h"
+
+1448448081 source:e:\sdl\rubikscubesimulator\src\cubereader.cpp
+	"CubeReader.h"
+
